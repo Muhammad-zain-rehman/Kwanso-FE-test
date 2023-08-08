@@ -37,10 +37,6 @@ const TasksListing = ({ selectable }) => {
         <RecordNotFound />
 
       }
-
-
-
-      {/* <DeleteTask /> */}
     </div>
   )
 }
